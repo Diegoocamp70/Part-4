@@ -1,0 +1,10 @@
+POST http://localhost:3001/api/blogs
+Content-Type: application/json
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6IkRpZWdvcyIsImlkIjoiNjc3ZWI3YjE3N2FlN2FiOGUzNmZhZGViIiwiaWF0IjoxNzM2NTI3OTQyfQ.IMu4L9X49HZc-xmbL8cuPTZJJXr7GjnIhTRxB9F7v98
+
+{
+    "title": "top gun ",
+    "author": "maquina",
+    "url": "https://www.google.com",
+    "likes": 12
+}

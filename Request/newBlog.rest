@@ -1,0 +1,12 @@
+
+POST http://localhost:3001/api/blogs
+Content-Type: application/json
+
+{
+    "title": "brokoli",
+    "author": "normanis",
+    "url": "https://www.google.com",
+    "likes": 99,
+    "user": "677c26b0b625f2538e456210"
+}
+
